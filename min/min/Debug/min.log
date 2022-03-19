@@ -1,0 +1,17 @@
+﻿  Handler.cpp
+C:\[hw]\os\min\min\Handler.cpp(34,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\[hw]\os\min\min\Handler.cpp(44,39): warning C4227: устаревший элемент: пропуск квалификаторов для ссылки
+C:\[hw]\os\min\min\Handler.cpp(58,36): warning C4227: устаревший элемент: пропуск квалификаторов для ссылки
+C:\[hw]\os\min\min\Handler.cpp(60,26): warning C4227: устаревший элемент: пропуск квалификаторов для ссылки
+C:\[hw]\os\min\min\Handler.cpp(74,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\[hw]\os\min\min\Handler.cpp(83,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\[hw]\os\min\min\Handler.cpp(101,37): warning C4227: устаревший элемент: пропуск квалификаторов для ссылки
+C:\[hw]\os\min\min\Handler.cpp(103,27): warning C4227: устаревший элемент: пропуск квалификаторов для ссылки
+C:\[hw]\os\min\min\Handler.cpp(111,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\[hw]\os\min\min\Handler.cpp(116,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\[hw]\os\min\min\Handler.cpp(119,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\[hw]\os\min\min\Handler.cpp(218,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\[hw]\os\min\min\Handler.cpp(245,20): warning C4018: <: несоответствие типов со знаком и без знака
+  min.cpp
+  Создание кода...
+  min.vcxproj -> C:\[hw]\os\min\Debug\min.exe

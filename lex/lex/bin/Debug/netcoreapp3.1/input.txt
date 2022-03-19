@@ -1,0 +1,14 @@
+PROGRAM RunReadDigit(INPUT, OUTPUT);
+VAR
+  D, Sum: INTEGER;
+BEGIN {RunReadDigit}
+  Sum := 0;
+  READ(INPUT, D);
+  WHILE (D <> -1)
+  DO
+    BEGIN
+      Sum := Sum + D;
+      ReadDigit(INPUT, D)
+    END;
+  WRITELN(Sum)
+END. {RunReadDigit}

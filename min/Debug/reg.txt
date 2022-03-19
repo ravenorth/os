@@ -1,0 +1,7 @@
+Mr
+	y1	y2	y3	y4	y5	y2	y6	y7
+	A	BCE	C	DG	E	FH	G	H
+a	DG	-	-	G	-	-	G	-
+b	-	-	-	C	-	-	-	-
+x	BCE	E	E	E	-	E	E	-
+y	H	FH	H	H	-	FH	H	H

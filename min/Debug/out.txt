@@ -1,0 +1,5 @@
+Ml
+	y1	y1	y2	y2	y3
+	S1	S2	S3	S4	S5
+1	S3	S5	S2	S3	S3
+2	S5	S3	S1	S5	S2

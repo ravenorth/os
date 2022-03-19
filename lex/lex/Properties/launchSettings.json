@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "lex": {
+      "commandName": "Project",
+      "commandLineArgs": "input.txt"
+    }
+  }
+}

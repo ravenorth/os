@@ -1,0 +1,14 @@
+C:\[hw]\os\lex\lex\bin\Debug\netcoreapp3.1\lex.exe
+C:\[hw]\os\lex\lex\bin\Debug\netcoreapp3.1\lex.deps.json
+C:\[hw]\os\lex\lex\bin\Debug\netcoreapp3.1\lex.runtimeconfig.json
+C:\[hw]\os\lex\lex\bin\Debug\netcoreapp3.1\lex.runtimeconfig.dev.json
+C:\[hw]\os\lex\lex\bin\Debug\netcoreapp3.1\lex.dll
+C:\[hw]\os\lex\lex\bin\Debug\netcoreapp3.1\lex.pdb
+C:\[hw]\os\lex\lex\obj\Debug\netcoreapp3.1\lex.csproj.AssemblyReference.cache
+C:\[hw]\os\lex\lex\obj\Debug\netcoreapp3.1\lex.GeneratedMSBuildEditorConfig.editorconfig
+C:\[hw]\os\lex\lex\obj\Debug\netcoreapp3.1\lex.AssemblyInfoInputs.cache
+C:\[hw]\os\lex\lex\obj\Debug\netcoreapp3.1\lex.AssemblyInfo.cs
+C:\[hw]\os\lex\lex\obj\Debug\netcoreapp3.1\lex.csproj.CoreCompileInputs.cache
+C:\[hw]\os\lex\lex\obj\Debug\netcoreapp3.1\lex.dll
+C:\[hw]\os\lex\lex\obj\Debug\netcoreapp3.1\lex.pdb
+C:\[hw]\os\lex\lex\obj\Debug\netcoreapp3.1\lex.genruntimeconfig.cache
